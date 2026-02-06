@@ -1,4 +1,4 @@
-baris 1
+baris 1 <-- ini dari coba 1
 baris 2
 baris 4
 baris 5
